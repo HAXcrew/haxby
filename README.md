@@ -1,1 +1,1 @@
-##This site is a quick re-design of HAXcrews site built with gatsby.
+#This site is a quick re-design of HAXcrews site built with gatsby.
